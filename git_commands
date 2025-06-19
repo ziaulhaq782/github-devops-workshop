@@ -15,3 +15,10 @@ git rm --cached unstage testing.py
 git restore testing.py
 
   31 git status
+
+
+ ls
+some changes
+
+mistakes
+
