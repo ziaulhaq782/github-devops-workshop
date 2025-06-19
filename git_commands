@@ -15,4 +15,9 @@ git rm --cached unstage testing.py
 git restore testing.py
 
   31 git status
- ls
+git remote add origin  https://github.com/ziaulhaq782/github-devops-workshop.git
+   4 git remote -v
+   5 git push origin master
+   6 git remote set-url origin https://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@github.com/ziaulh...
+   7 git remote -v
+   8 git push origin master
