@@ -1,0 +1,18 @@
+git init
+git status
+
+git rm --cached unstage testing.py
+  18 git restore --staged testing.py
+  19 git status
+  20 git rm --cached testing.py
+  21 git status
+  22 git add .
+  23 git status
+  24 git commit -m "added testing files"
+  25 git status
+  26 rm testing.py
+  27 ls
+git restore testing.py
+
+  31 git status
+ ls
